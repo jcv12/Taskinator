@@ -10,7 +10,7 @@
 ## Installation
   
 There is no installation required as it is put on github pages<br/>
-Page link: 
+Page link: https://jcv12.github.io/Taskinator/
 
 ## Credits
 John Vayianos
